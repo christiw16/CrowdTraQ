@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "hello",
+    name: "CrowdTraq",
     platforms: [
        .macOS(.v12)
     ],
