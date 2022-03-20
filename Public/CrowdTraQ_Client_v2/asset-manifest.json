@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CrowdTraQ_Client_v2/static/css/main.bc31d416.css",
+    "main.js": "/CrowdTraQ_Client_v2/static/js/main.92790548.js",
+    "static/js/787.1350a070.chunk.js": "/CrowdTraQ_Client_v2/static/js/787.1350a070.chunk.js",
+    "static/media/CrowdTraQIntro.png": "/CrowdTraQ_Client_v2/static/media/CrowdTraQIntro.758be8666dd838b44eaa.png",
+    "static/media/CD_Reflection_background.png": "/CrowdTraQ_Client_v2/static/media/CD_Reflection_background.55927c39d6d672f33633.png",
+    "static/media/logo.svg": "/CrowdTraQ_Client_v2/static/media/logo.da562bddcbffd50515b3656d9757476c.svg",
+    "index.html": "/CrowdTraQ_Client_v2/index.html",
+    "main.bc31d416.css.map": "/CrowdTraQ_Client_v2/static/css/main.bc31d416.css.map",
+    "main.92790548.js.map": "/CrowdTraQ_Client_v2/static/js/main.92790548.js.map",
+    "787.1350a070.chunk.js.map": "/CrowdTraQ_Client_v2/static/js/787.1350a070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc31d416.css",
+    "static/js/main.92790548.js"
+  ]
+}
